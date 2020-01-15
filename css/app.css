@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(8, 8, 8, 0.774) !important;
+    background:
+            -moz-radial-gradient(gray 3%, transparent 8%),
+            -moz-radial-gradient(gray 3%, transparent 8%),
+            rgba(0,0,0,0.7);
+    background:
+            -webkit-radial-gradient(gray 3%, transparent 8%),
+            -webkit-radial-gradient(gray 3%, transparent 8%),
+            rgba(0,0,0,0.7);
+
+    background-position: 0 0, 80px 80px;
+
+    -webkit-background-size:16px 16px;
+    -moz-background-size:16px 16px;
+    background-size:16px 16px;
+
+}
+
+.table{
+    text-align: center;
+    empty-cells: show;
+    border-collapse: separate;
+    border-spacing: 1px ;
+    
+}
+
+td {
+    background-color:gray ;
+    color: whitesmoke;
+    width:50px;
+    height: 50px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 3px;
+}
+
+tr {
+    background-color:gray ;
+}
