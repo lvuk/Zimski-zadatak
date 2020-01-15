@@ -11,7 +11,7 @@
       <div class="grid-x">
         <div class="large-12 small-12 columns">
           <div class="callout" style="min-height: 400px;"> 
-            <h1>1. Zadatak</h1>
+            <h2>1. Zadatak</h1>
             <hr>
           <div>
           <form action="" method = "POST">
